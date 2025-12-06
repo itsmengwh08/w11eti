@@ -4,6 +4,4 @@ As you know, Microsoft has released a version of Windows 11 called "Windows 11 S
 ![Screenshot](https://raw.githubusercontent.com/itsmengwh08/w11eti/refs/heads/main/attachment/screenshot.png)
 <br>
 # Compatibility
-- Windows 11, build 21996 or newer
-- Windows Server, build 22463 or newer
-- Windows 10 (not tested yet but may work)
+- Windows 10 Creators Update (1703) or newer OS
