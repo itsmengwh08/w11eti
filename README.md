@@ -1,2 +1,2 @@
-# w11eti
-Windows 11 Education Theme Installer - work with every editions of Windows 11
+# Windows 11 Education Theme Installer
+As you know, Microsoft has released a version of Windows 11 called "Windows 11 SE" to compete with chromeOS. And of course, Microsoft also stuffed it with its own theme set.
