@@ -1,9 +1,9 @@
 <#
 .SYNOPSIS
-    Windows 11 Education Theme Installer (PowerShell Version).
+    Windows 11 Education Theme Installer
 .DESCRIPTION
-    This script modifies the Windows Registry to potentially enable Education themes
-    and installs several predefined Appx packages for themes.
+    This is an advanced version of Windows 11 Education Theme Installer
+    include debugging and logging.
 .NOTES
     Created by itsmengwh08
     GitHub: https://github.com/itsmengwh08/w11eti
